@@ -1,7 +1,7 @@
 # Data Analyzer
-![Image 1](Initial State.png)
+![Image 1](Initial State.PNG)
 
-![Image 2](https://github.com/YourUsername/YourRepository/blob/main/images/image2.png)
+![Image 2](https://github.com/EmonRezaBD/Data-Analyzer/main/Final State.PNG)
 
 
  
