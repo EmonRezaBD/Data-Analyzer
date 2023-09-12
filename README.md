@@ -1,5 +1,5 @@
 # Data Analyzer
 
-![My Image](Initial State.PNG)
+/assets/images/Initial State.png
 
  
