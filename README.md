@@ -1,7 +1,8 @@
 # Data Analyzer
-![Image 1](InitialView.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](InitialView.png)  |  ![](FinalView.png)
 
-![Image 2](FinalView.png)
 
 
  
