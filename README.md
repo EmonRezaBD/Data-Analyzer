@@ -1,7 +1,7 @@
 # Data Analyzer
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](InitialView.png)  |  ![](FinalView.png)
+![](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)  |  ![](FinalView.png)
 
 
 
