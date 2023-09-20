@@ -5,7 +5,7 @@ Initial UI            |  Final UI
 
 
 The repository is organized as follow:
-* <code>[ChartCtrl]</code>(../ChartCtrl) : yes
+* <code>[ChartCtrl](../ChartCtrl)</code> : yes
 
 
  
