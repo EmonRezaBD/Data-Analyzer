@@ -1,7 +1,7 @@
 # Data Analyzer
 Initial UI            |  Final UI
 :-------------------------:|:-------------------------:
-![](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/InitialView.PNG)  |  ![](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)
+![Fig. 1](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/InitialView.PNG)  |  ![Fig. 2](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)
 
 
  
