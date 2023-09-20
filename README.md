@@ -4,7 +4,7 @@ Initial UI            |  Final UI
 ![Fig. 1](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/InitialView.PNG)  |  ![Fig. 2](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)
 
 ### :blue_book: App Description
-This app is developed to get a good grasp on MFC C++ framework. All the basic features and their fully functional implementation can be found here.
+This app is developed to get a good grasp on MFC C++ framework. All the basic features and their fully functional implementation can be found here. This repo is helpful for the beginners in MFC C++.
 Features of this app-
 * Load file : A button to load a CSV file 
 * Tab control: For creating different tabs for specific purpose
