@@ -23,9 +23,10 @@ Features of this app-
 * <code> [res](res)</code> : Used resource files in this app. contains all the buttons, tabs etc.
   
 ### :gear: How to Build and Run the App
-This app is build using Visual Studio 2019
+* This app is builded using Visual Studio 2019
+* Download the repo and open using Visual Studio 2019, then run the software
+* For testing, one CSV file is given in this repo named <code>[DemoProjectData.csv](DemoProjectData.csv)</code>
+* Main file : DemoProjectDlg.cpp
+* Chart creating file : FirstDialog.cpp
 
-
-
-
- 
+Thank you for reading and reach out to me for any help regarding MFC. Happy coding :smile_cat:
