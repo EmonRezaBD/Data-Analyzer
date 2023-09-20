@@ -5,7 +5,11 @@ Initial UI            |  Final UI
 
 
 The repository is organized as follow:
-* <code>[ChartCtrl](../ChartCtrl)</code> : yes
+* <code>[ChartCtrl](ChartCtrl)</code> : Chart Control Library is used to generate 2D graphs in MFC. This library is designed for MFC C++.
+* <code>[Debug](Debug) </code> : Debugging object files
+* <code>[libharu_x86-windows](libharu_x86-windows)</code> : Libharu library is used for building PDF from scratch in MFC
+* <code>[libpng_x86-windows](libpng_x86-windows) </code> : For PDF building in MFC. Both of the folder is needed
+* <code> [res](res)</code> : Used resource files in this app. contains all the buttons, tabs etc. 
 
 
  
