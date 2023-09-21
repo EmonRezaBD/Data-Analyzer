@@ -1,4 +1,5 @@
 # Data Analyzer MFC App
+![GitHub Repo stars](https://img.shields.io/github/stars/EmonRezaBD/Data-Analyzer) ![GitHub repo size](https://img.shields.io/github/repo-size/EmonRezaBD/Data-Analyzer?color=red) 
 Initial UI            |  Final UI
 :-------------------------:|:-------------------------:
 ![Fig. 1](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/InitialView.PNG)  |  ![Fig. 2](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)
