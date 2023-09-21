@@ -3,7 +3,7 @@ Initial UI            |  Final UI
 :-------------------------:|:-------------------------:
 ![Fig. 1](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/InitialView.PNG)  |  ![Fig. 2](https://github.com/EmonRezaBD/Data-Analyzer/blob/main/FinalView.PNG)
 
-### :blue_book: App Description
+## :blue_book: App Description
 This app is developed to get a good grasp on MFC C++ framework. All the basic features and their fully functional implementation can be found here. This repo can be helpful for the beginners of MFC C++.
 Features of this app-
 * Load file : A button to load a CSV file 
@@ -15,14 +15,14 @@ Features of this app-
 * Export data: To export data of selected 02 columns through context menu in a new CSV file
 * Export pdf: To export data and write in PDF file in any format ex. table, plain text, etc.
 
-### :file_folder: Table of Contents 
+## :file_folder: Table of Contents 
 * <code>[ChartCtrl](ChartCtrl)</code> : Chart Control Library is used to generate 2D graphs in MFC. This library is designed for MFC C++.
 * <code>[Debug](Debug) </code> : Debugging object files
 * <code>[libharu_x86-windows](libharu_x86-windows)</code> : Libharu library is used for building PDF from scratch in MFC
 * <code>[libpng_x86-windows](libpng_x86-windows) </code> : For PDF building in MFC. Both of the folder is needed
 * <code> [res](res)</code> : Used resource files in this app. contains all the buttons, tabs etc.
   
-### :gear: How to Build and Run the App
+## :gear: How to Build and Run the App
 * This app is builded using Visual Studio 2019
 * Download the repo and open using Visual Studio 2019, then run the software
 * For testing, one CSV file is given in this repo named <code>[DemoProjectData.csv](DemoProjectData.csv)</code>
